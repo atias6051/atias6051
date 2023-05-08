@@ -7,7 +7,7 @@ As a junior software engineer, I am passionate about programming and constantly 
 
 I am eager to gain experience working on real-world projects and contributing to the success of a team. I am a fast learner and a great collaborator, and I am committed to delivering high-quality work that meets or exceeds expectations.
 
-If you are looking for a junior software engineer who is eager to learn and grow with your team, I would love to hear from you. Thank you for considering my profile!
+If you are looking for a software engineer who is eager to learn and grow with your team, I would love to hear from you. Thank you for considering my profile!
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
